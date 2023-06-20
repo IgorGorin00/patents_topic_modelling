@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+env_tm/
+utils/.ipynb_checkpoints/
+utils/__pycache__/
+patents_stuff.ipynb
+nohup.out
