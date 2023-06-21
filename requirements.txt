@@ -7,3 +7,4 @@ git+https://github.com/MaartenGr/BERTopic.git#egg=bertopic
 hdbscan>=0.8.29
 umap-learn>=0.5.3
 sentence-transformers>=2.2.2
+gdown
