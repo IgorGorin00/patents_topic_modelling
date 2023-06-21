@@ -36,6 +36,22 @@ These modules provide reusable functions to streamline the analysis process and 
 Please refer to the specific Jupyter Notebooks and utility modules for more detailed information on the implementation and analysis steps.
 
 
+## Setup
+To explore this project locally, follow these steps:
+
+1. Clone the project repository.
+2. Create a virtual environment with Python 3.9.17.
+3. Run the command `pip install -r requirements.txt` to install the project's dependencies.
+4. Install the ipykernel package by running `pip install ipykernel`.
+5. Create a kernel linked to the virtual environment by running `python -m ipykernel install --user --name=myenv`.
+
+These steps will ensure that you have the necessary dependencies installed and can run the Jupyter Notebooks 
+within the project using the appropriate kernel.
+
+Feel free to modify the instructions as needed based on your specific setup 
+or any additional steps required to run the project successfully.
+
+
 ## Conclusion
 
 This project demonstrates the application of topic modeling techniques using the 
